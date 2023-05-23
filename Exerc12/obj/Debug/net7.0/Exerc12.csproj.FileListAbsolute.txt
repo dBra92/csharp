@@ -1,0 +1,15 @@
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/bin/Debug/net7.0/Exerc12
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/bin/Debug/net7.0/Exerc12.deps.json
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/bin/Debug/net7.0/Exerc12.runtimeconfig.json
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/bin/Debug/net7.0/Exerc12.dll
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/bin/Debug/net7.0/Exerc12.pdb
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.csproj.AssemblyReference.cache
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.AssemblyInfoInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.AssemblyInfo.cs
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.dll
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/refint/Exerc12.dll
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.pdb
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/Exerc12.genruntimeconfig.cache
+/home/dan92/Documentos/projects/csharp/Begin/Exerc12/obj/Debug/net7.0/ref/Exerc12.dll

@@ -1,0 +1,15 @@
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.csproj.AssemblyReference.cache
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.AssemblyInfoInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.AssemblyInfo.cs
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N5/bin/Debug/net7.0/N5
+/home/dan92/Documentos/projects/csharp/Begin/N5/bin/Debug/net7.0/N5.deps.json
+/home/dan92/Documentos/projects/csharp/Begin/N5/bin/Debug/net7.0/N5.runtimeconfig.json
+/home/dan92/Documentos/projects/csharp/Begin/N5/bin/Debug/net7.0/N5.dll
+/home/dan92/Documentos/projects/csharp/Begin/N5/bin/Debug/net7.0/N5.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.dll
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/refint/N5.dll
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/N5.genruntimeconfig.cache
+/home/dan92/Documentos/projects/csharp/Begin/N5/obj/Debug/net7.0/ref/N5.dll

@@ -1,0 +1,15 @@
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.csproj.AssemblyReference.cache
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.AssemblyInfoInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.AssemblyInfo.cs
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N4/bin/Debug/net7.0/N4
+/home/dan92/Documentos/projects/csharp/Begin/N4/bin/Debug/net7.0/N4.deps.json
+/home/dan92/Documentos/projects/csharp/Begin/N4/bin/Debug/net7.0/N4.runtimeconfig.json
+/home/dan92/Documentos/projects/csharp/Begin/N4/bin/Debug/net7.0/N4.dll
+/home/dan92/Documentos/projects/csharp/Begin/N4/bin/Debug/net7.0/N4.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.dll
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/refint/N4.dll
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/N4.genruntimeconfig.cache
+/home/dan92/Documentos/projects/csharp/Begin/N4/obj/Debug/net7.0/ref/N4.dll

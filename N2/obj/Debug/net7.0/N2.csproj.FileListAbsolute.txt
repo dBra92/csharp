@@ -1,0 +1,15 @@
+/home/dan92/Documentos/projects/csharp/Begin/N2/bin/Debug/net7.0/N2
+/home/dan92/Documentos/projects/csharp/Begin/N2/bin/Debug/net7.0/N2.deps.json
+/home/dan92/Documentos/projects/csharp/Begin/N2/bin/Debug/net7.0/N2.runtimeconfig.json
+/home/dan92/Documentos/projects/csharp/Begin/N2/bin/Debug/net7.0/N2.dll
+/home/dan92/Documentos/projects/csharp/Begin/N2/bin/Debug/net7.0/N2.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.csproj.AssemblyReference.cache
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.AssemblyInfoInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.AssemblyInfo.cs
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.dll
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/refint/N2.dll
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.pdb
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/N2.genruntimeconfig.cache
+/home/dan92/Documentos/projects/csharp/Begin/N2/obj/Debug/net7.0/ref/N2.dll
