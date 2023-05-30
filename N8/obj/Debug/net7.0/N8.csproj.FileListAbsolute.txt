@@ -1,0 +1,15 @@
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.csproj.AssemblyReference.cache
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.AssemblyInfoInputs.cache
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.AssemblyInfo.cs
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/csharp/N8/bin/Debug/net7.0/N8
+/home/dan92/Documentos/csharp/N8/bin/Debug/net7.0/N8.deps.json
+/home/dan92/Documentos/csharp/N8/bin/Debug/net7.0/N8.runtimeconfig.json
+/home/dan92/Documentos/csharp/N8/bin/Debug/net7.0/N8.dll
+/home/dan92/Documentos/csharp/N8/bin/Debug/net7.0/N8.pdb
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.dll
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/refint/N8.dll
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.pdb
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/N8.genruntimeconfig.cache
+/home/dan92/Documentos/csharp/N8/obj/Debug/net7.0/ref/N8.dll

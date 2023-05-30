@@ -1,0 +1,15 @@
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.csproj.AssemblyReference.cache
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.AssemblyInfoInputs.cache
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.AssemblyInfo.cs
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/csharp/N11/bin/Debug/net7.0/N11
+/home/dan92/Documentos/csharp/N11/bin/Debug/net7.0/N11.deps.json
+/home/dan92/Documentos/csharp/N11/bin/Debug/net7.0/N11.runtimeconfig.json
+/home/dan92/Documentos/csharp/N11/bin/Debug/net7.0/N11.dll
+/home/dan92/Documentos/csharp/N11/bin/Debug/net7.0/N11.pdb
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.dll
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/refint/N11.dll
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.pdb
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/N11.genruntimeconfig.cache
+/home/dan92/Documentos/csharp/N11/obj/Debug/net7.0/ref/N11.dll

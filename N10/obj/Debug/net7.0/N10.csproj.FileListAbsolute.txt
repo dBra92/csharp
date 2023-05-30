@@ -1,0 +1,15 @@
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.csproj.AssemblyReference.cache
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.AssemblyInfoInputs.cache
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.AssemblyInfo.cs
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.csproj.CoreCompileInputs.cache
+/home/dan92/Documentos/csharp/N10/bin/Debug/net7.0/N10
+/home/dan92/Documentos/csharp/N10/bin/Debug/net7.0/N10.deps.json
+/home/dan92/Documentos/csharp/N10/bin/Debug/net7.0/N10.runtimeconfig.json
+/home/dan92/Documentos/csharp/N10/bin/Debug/net7.0/N10.dll
+/home/dan92/Documentos/csharp/N10/bin/Debug/net7.0/N10.pdb
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.dll
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/refint/N10.dll
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.pdb
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/N10.genruntimeconfig.cache
+/home/dan92/Documentos/csharp/N10/obj/Debug/net7.0/ref/N10.dll
